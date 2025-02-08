@@ -102,3 +102,5 @@ try {
 For more information about the TMDB API, refer to the [official documentation](https://developer.themoviedb.org/reference/intro/getting-started).
 
 Make sure to replace `'your_api_key_here'` with your actual TMDB API key.
+
+**Tip:** Use `https://image.tmdb.org/t/p/original` as prefix to obtain the full cover image URL of each movie.
